@@ -1,0 +1,25 @@
+NIKURA LICENSE (PNNPL)
+Version 1.0 — 2025-08-28
+
+Author and Rights Holder: Professor Nikura
+Contacts: https://t.me/N1KURA | n1kura@gmx.com
+
+1. This work is the intellectual property of the author 
+   and is protected under international law (Berne Convention, WIPO Copyright Treaty, TRIPS Agreement).
+
+2. Any copying, distribution, modification, commercial or non-commercial use 
+   without the author’s written permission is strictly prohibited.
+
+3. Patent applications or registrations based on this material 
+   are strictly forbidden without the author’s written consent.
+
+4. Exclusive rights remain with the author.
+
+5. Permission can only be granted through an official written agreement via the provided contacts.
+
+6. Reverse engineering, decompilation, or circumvention of technical restrictions is prohibited.
+
+7. Violation of these terms entails liability under international copyright agreements 
+   and under the national laws of the violator’s country.
+
+© Professor Nikura. All rights reserved worldwide.
